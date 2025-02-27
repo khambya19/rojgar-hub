@@ -6,6 +6,7 @@ from tkinter import font as tkfont
 
 # pushing
 #this is from achyut subedi
+#this is form aarya thapa
 
 
 
